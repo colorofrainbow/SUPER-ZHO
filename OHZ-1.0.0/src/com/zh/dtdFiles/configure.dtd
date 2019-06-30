@@ -1,0 +1,4 @@
+<!ELEMENT dataSource (property+)>
+<!ELEMENT property (#PCDATA)>
+<!ATTLIST property name CDATA "">
+<!ATTLIST property value CDATA "">
